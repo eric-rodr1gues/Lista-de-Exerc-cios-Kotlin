@@ -1,6 +1,6 @@
 # Lista 2 de Exercícios Kotlin
 
-## Execício 1. Diferença de números
+## Execício 1.
 ```kotlin
 fun main() {
     print("Insira um número: ")
@@ -14,7 +14,7 @@ fun main() {
 ```
 
 ---
-## Execício 2. Nome completo
+## Execício 2.
 ```kotlin
 fun main() {
     print("Digite seu nome: ")
@@ -27,7 +27,7 @@ fun main() {
 ```
 
 ---
-## Execício 3. Operações de dois números
+## Execício 3.
 ```kotlin
 fun main() {
     println("Digite um número")
@@ -48,7 +48,7 @@ fun main() {
 ```
 
 ---
-## Execício 4. Área do quadrado
+## Execício 4.
 ```kotlin
 fun main() {
     print("Insira o lado do quadrado, em cm: ")
@@ -60,7 +60,7 @@ fun main() {
 ```
 
 ---
-## Execício 5. Área do triângulo
+## Execício 5.
 ```kotlin
 fun main() {
     print("Insira a altura do triângulo: ")
@@ -75,7 +75,7 @@ fun main() {
 ```
 
 ---
-## Execício 6. Cáculo de IMC
+## Execício 6.
 ```kotlin
 fun main() {
     print("Digite seu peso: ")
@@ -99,7 +99,7 @@ fun main() {
 ```
 
 ---
-## Execício 7. Idade em anos
+## Execício 7.
 ```kotlin
 fun main() {
 
